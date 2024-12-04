@@ -8,11 +8,17 @@ However, they do not have an in-house data analytics team to provide them with t
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
  Datasets --> We have 5 excel(csv) datasets.
+ 
 -> dim_date
+
 -> dim_hotels
+
 -> dim_rooms
+
 -> fact_aggregated_bookings
+
 -> fact_bookings
+
 
 Used Tools--> Excel,PowerBI
 
