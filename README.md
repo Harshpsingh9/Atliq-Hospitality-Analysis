@@ -22,6 +22,38 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 Used Tools--> Excel,PowerBI
 
+
+Created following KPI's using DAX -
+
+-> Total Bookings
+
+-> Total Revenue
+
+-> Average Rating
+
+-> Total Capacity
+
+-> Total Successful bookings
+
+-> Occupancy %
+
+->Total Cancelled Bookings
+
+-> Cancellation Rate
+
+-> Revenue Loss
+
+Here we created 3 types of view -
+
+1- Executive view -  Executives are the top employees of companies. They're responsible for overseeing the operations, finances, and general direction of a business, corporation, or organization.
+                     Executive are responsible in taking decisions.
+
+2- Finance View -  Finance view is for finance related teams.Finance teams in an organization is responsible for managing and planning a company's financial resources to ensure the organization's growth and value.
+
+
+3-All Types Of Revenue View - I created this view to analyze Revenue Per Available Room (RevPAR) and calculate the average RevPAR effectively. 
+
+
  What is the Outcome of this Analysis ?
 
 -> Mumbai generates highest revenue of 669 millions among all four cities.
