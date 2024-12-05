@@ -68,3 +68,10 @@ Here we created 3 types of view -
 
 -> Atliq exotica performed well in compared to other 6 types of properties. It has generated  320 millions with 3.62 rating and occupancy 57%.   
 
+Important Links -->
+
+Live dasboard link: https://app.powerbi.com/view?r=eyJrIjoiYjIxYmVlNjktNGNhNS00NTk1LThlNzUtZjc2ZTQ0OWVkOTAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+linkdin video presentation link :https://www.linkedin.com/posts/harsh-pratap-singh-hps7_dataanalytics-businessinsights360-dataanalysis-activity-7270301274166730753-FICy?utm_source=share&utm_medium=member_desktop
+
+
